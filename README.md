@@ -3,4 +3,10 @@ Practicando React: Challenge Aluraflix
 
 ## Demo
 
-Puedes consultar la demo en: [Aluraflix Demo](https://alura-flix-nu-six.vercel.app/)
+Demo disponible en: [Aluraflix Demo](https://alura-flix-nu-six.vercel.app/)
+
+## Capturas de pantalla
+
+Banner
+Desktop
+![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Desktop%20banner.png)
