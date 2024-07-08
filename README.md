@@ -11,24 +11,28 @@ Demo disponible en: [Aluraflix Demo](https://alura-flix-nu-six.vercel.app/)
 
 ##Banner
 
-Desktop
+##Desktop
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Desktop%20banner.png)
 Tablet
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Tablet%20banner.png)
-En modo Phone se oculta.
 
-#Galeria
+En modo Phone se oculta el banner.
+
+##Galeria
 
 Desktop
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Desktop%20galeria.png)
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Desktop%20galeria%202.png)
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Desktop%20footer.png)
 Tablet
+
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Tablet%20galeria%201.png)
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Tablet%20galeria%202.png)
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Tablet%20footer.png)
 Phone
+
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Phone%20galeria.png)
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Phone%20galeria%202.png)
 
 ##Formulario
+
