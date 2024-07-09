@@ -12,8 +12,10 @@ Demo disponible en: [Aluraflix Demo](https://alura-flix-nu-six.vercel.app/)
 ##Banner
 
 ##Desktop
+
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Desktop%20banner.png)
 Tablet
+
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Tablet%20banner.png)
 
 En modo Phone se oculta el banner.
@@ -39,17 +41,22 @@ Phone
 Formulario
 
 Desktop
+
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Desktop%20formulario%201.png)
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Desktop%20formulario%202.png)
+
 Validacion de campos requeridos
+
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Desktop%20formulario%20validacion.png)
 
 Tablet
+
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Tablet%20formulario%201.png)
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Tablet%20formulario%202.png)
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Tablet%20formulario%20validacion.png)
 
 Phone
+
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Phone%20formulario%201.png)
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Phone%20formulario%202.png)
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Phone%20formulario%20validacion.png)
@@ -57,14 +64,17 @@ Phone
 Modal de edicion
 
 Desktop
+
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Desktop%20modal.png)
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Desktop%20modal%20valdiacion.png)
 
 Tablet
+
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Tablet%20modal.png)
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Tablet%20modal%20validacion.png)
 
 Phone
+
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Phone%20modal.png)
 ![alt text](https://github.com/JorgeRenteriaA/Alura-flix/blob/main/Screenshots/Phone%20modal%20validacion.png)
 
