@@ -1,7 +1,7 @@
 # Alura-flix
 Practicando React: Challenge Aluraflix
 Challenge de React para el curso de Front-end de Alura.
-Se siguio el modelo de figma de forma responsiva para sus 3 estilos, desktop, table y phone, se utilizó la implementacion de una FakeAPI disponible en:  [AluraflixAPI](https://alura-flix-api-nu.vercel.app/)
+Se siguio el modelo de figma de forma responsiva para sus 3 estilos, desktop, tablet y phone, se utilizó la implementacion de una FakeAPI disponible en:  [AluraflixAPI](https://alura-flix-api-nu.vercel.app/)
 
 ## Demo
 
